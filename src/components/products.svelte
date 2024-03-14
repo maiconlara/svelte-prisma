@@ -7,6 +7,7 @@
 			<img
 				src="https://daisyui.com/images/stock/photo-1625726411847-8cbb60cc71e6.jpg"
 				class="w-full"
+				alt="slide1"
 			/>
 			<div
 				class="absolute flex justify-between transform bg-transparent -translate-y-1/2 left-5 right-5 top-1/2"
@@ -19,6 +20,7 @@
 			<img
 				src="https://daisyui.com/images/stock/photo-1609621838510-5ad474b7d25d.jpg"
 				class="w-full"
+				alt="slide2"
 			/>
 			<div
 				class="absolute flex justify-between transform bg-transparent -translate-y-1/2 left-5 right-5 top-1/2"
@@ -31,6 +33,7 @@
 			<img
 				src="https://daisyui.com/images/stock/photo-1414694762283-acccc27bca85.jpg"
 				class="w-full"
+				alt="slide3"
 			/>
 			<div
 				class="absolute flex justify-between transform bg-transparent -translate-y-1/2 left-5 right-5 top-1/2"
@@ -43,6 +46,7 @@
 			<img
 				src="https://daisyui.com/images/stock/photo-1665553365602-b2fb8e5d1707.jpg"
 				class="w-full"
+				alt="slide4"
 			/>
 			<div
 				class="absolute flex justify-between transform bg-transparent -translate-y-1/2 left-5 right-5 top-1/2"
