@@ -23,7 +23,7 @@
 				only with Prisma technology
 			</h1>
 		</div>
-		<p class="text-sm md:text-md 3xl:text-xl text-center">
+		<p data-testid="parag1" class="text-sm md:text-md 3xl:text-xl text-center">
 			Experience the next generation of landing page solutions
 		</p>
 		<button
