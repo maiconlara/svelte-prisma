@@ -8,26 +8,26 @@
 	import yahoo from '../assets/yahoo.svg';
 </script>
 
-<div class="flex flex-col h-[calc(100vh-100px)] items-start justify-start px-28 gap-12 3xl:gap-24">
-	<div class="flex flex-col min-h-[55vh] items-center w-full justify-end gap-4 3xl:gap-6">
+<div class="flex flex-col h-[calc(100vh-100px)] items-start justify-start px-1 md:px-28 gap-12 3xl:gap-24">
+	<div class="flex flex-col md:min-h-[55vh] items-center w-full justify-end gap-4 3xl:gap-6">
 		<img src={logo} alt="logo" class="w-24 2xl:w-28 h-24 2xl:h-28" />
-		<div class="flex flex-col items-center justify-center">
+		<div class="flex flex-col items-center justify-center w-[90vw] md:w-full ">
 			<h1
-				class=" md:text-3xl lg:text-4xl 3xl:text-6xl font-semibold text-center w-full 3xl:leading-[70px]"
+				class="text-2xl md:text-3xl lg:text-4xl 3xl:text-6xl font-semibold text-center w-full 3xl:leading-[70px]"
 			>
 				Empowered way to develop pages
 			</h1>
 			<h1
-				class=" md:text-3xl lg:text-4xl 3xl:text-6xl font-bold text-center w-full 3xl:leading-[70px]"
+				class="text-2xl md:text-3xl lg:text-4xl 3xl:text-6xl font-bold w-[90vw] text-center md:w-full 3xl:leading-[70px]"
 			>
 				only with Prisma technology
 			</h1>
 		</div>
-		<p class="text-md 3xl:text-xl text-center">
+		<p class="text-sm md:text-md 3xl:text-xl text-center">
 			Experience the next generation of landing page solutions
 		</p>
 		<button
-			class="hidden md:flex rounded-full font-semibold text-white py-2 px-12 bg-prisma-500 hover:bg-prisma-600 transition-colors"
+			class="flex rounded-full font-semibold text-white py-2 px-12 bg-prisma-500 hover:bg-prisma-600 transition-colors"
 		>
 			Start now
 		</button>
